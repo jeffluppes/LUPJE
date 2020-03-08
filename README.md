@@ -17,7 +17,7 @@ Originally this was constructed as a term project for the [course 'Text and Mult
 
 However, over the past years I've come back to it several times whenever I needed to do some quick sentiment analysis on Dutch. As the lexicon was constructed on contemporary microblogging messages (Twitter) it is extremely useful for sentiment tasks in customer support and short messages. 
 
-I am releasing the list and the term paper under MIT license so others can maybe use this.  
+I am releasing the list and the term paper under MIT license so others can maybe use this. It can be easily imported in existing libraries that use the same method. 
 
 For the original AFINN paper see:
 
