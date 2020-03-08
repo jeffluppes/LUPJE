@@ -13,7 +13,7 @@ The word list was evaluated on a small collection of Dutch tweets and is capable
 or negative sentiment. The sentiment lexicon has particular applications for the analysis of sentiment
 in Dutch language in microblog messages on social media.*
 
-Originally this was constructed as a term project for the [course 'Text and Multimedia Mining' at the Radboud university](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/let-rema-lcex06-text-multimedia-mining/). I had planned to package this as a python and/or npm libary (particularly because there was lack of NLP tools in JavaScript at the time), but never got around to it. Construction of the lexicon took a lot of time as words were humanly annotated using the same process Finn Årup Nielsen used.
+Originally this was constructed as a term project for the [course 'Text and Multimedia Mining' at the Radboud university](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/let-rema-lcex06-text-multimedia-mining/) in 2017-2018. I had planned to package this as a python and/or npm libary (particularly because there was lack of NLP tools in JavaScript at the time), but never got around to it. Construction of the lexicon took a lot of time as words were humanly annotated using the same process Finn Årup Nielsen used.
 
 However, over the past years I've come back to it several times whenever I needed to do some quick sentiment analysis on Dutch. As the lexicon was constructed on contemporary microblogging messages (Twitter) it is extremely useful for sentiment tasks in customer support and short messages. 
 
